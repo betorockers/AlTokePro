@@ -97,8 +97,8 @@ Para empresas en crecimiento con varios puntos físicos de operación.
 ## 📸 Vistazo a la Plataforma
 
 <div align="center">
-  <img src="screenshot_desktop.png" alt="Dashboard Escritorio" width="100%" style="border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(108,99,255,0.2);" />
-  <img src="screenshot_mobile.png" alt="App Móvil" width="300" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0,229,176,0.2);" />
+  <img src="https://raw.githubusercontent.com/betorockers/AlTokePro/main/screenshot_desktop.png" alt="Dashboard Escritorio" width="100%" style="border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(108,99,255,0.2);" />
+  <img src="https://raw.githubusercontent.com/betorockers/AlTokePro/main/screenshot_mobile.png" alt="App Móvil" width="300" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0,229,176,0.2);" />
 </div>
 
 ---
