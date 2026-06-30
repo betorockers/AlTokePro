@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Acceso-Web_App-blue?style=for-the-badge&logo=googlechrome" alt="Acceso Web" />
   </a>
   <br><br>
-  <a href="MANUAL_DE_USUARIO.md" target="_blank">
+  <a href="https://github.com/betorockers/AlTokePro/blob/main/MANUAL_DE_USUARIO.md" target="_blank">
     <img src="https://img.shields.io/badge/📖_Leer-Manual_de_Usuario-6C63FF?style=for-the-badge" alt="Manual de Usuario" />
   </a>
 </div>
@@ -106,3 +106,9 @@ Para empresas en crecimiento con varios puntos físicos de operación.
   <i>AlToke Pro es un producto impulsado por la innovación y el diseño ultra-premium.</i><br>
   <b>¿Dudas?</b> Contacta a nuestro soporte especializado desde la aplicación.
 </div>
+
+---
+## 📞 Contacto y Soporte
+- 🌐 **Web:** [betograf.cl](https://betograf.cl)
+- ✉️ **Email:** [contacto@betograf.cl](mailto:contacto@betograf.cl)
+- 💬 **WhatsApp de contacto:** [+56933445244](https://wa.me/56933445244)
