@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/betorockers/AlTokePro/main/logo%20oficial.png" alt="AlToke Pro Logo" width="200" />
+  <img src="https://raw.githubusercontent.com/betorockers/AlTokePro/main/iconoApps.png" alt="AlToke Pro Logo" width="150" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,229,176,0.3); margin-bottom: 20px;" />
   <h1>🚀 AlToke Pro</h1>
   <p><strong>Tu inventario al tiro, sin atados.</strong></p>
   <p>El sistema profesional de control de inventario de última generación diseñado para Pymes, almacenes, bodegas y centros de distribución.</p>
