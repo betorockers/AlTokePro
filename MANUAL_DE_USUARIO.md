@@ -21,7 +21,7 @@ AlToke Pro es un sistema profesional de control de inventario y logística (Back
 Al iniciar sesión en AlToke Pro, la primera pantalla que verás es tu **Panel de Control (Dashboard)**.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/betorockers/AlTokePro/main/screenshot_desktop.png" alt="Dashboard de AlToke Pro" width="100%" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);" />
+  <img src="https://raw.githubusercontent.com/betorockers/AlTokePro/main/manual_dashboard.png" alt="Dashboard de AlToke Pro" width="300" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);" />
 </div>
 
 ### ¿Qué encuentras aquí?
@@ -34,6 +34,10 @@ Al iniciar sesión en AlToke Pro, la primera pantalla que verás es tu **Panel d
 ## 2. Gestión de Tiendas y Sucursales
 
 Antes de agregar productos, necesitas definir **dónde** los vas a guardar. AlToke Pro es multi-sucursal, lo que significa que puedes controlar múltiples bodegas o locales comerciales.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/betorockers/AlTokePro/main/manual_stores.png" alt="Gestión de Tiendas" width="300" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);" />
+</div>
 
 ### ¿Cómo crear una Tienda?
 1. Dirígete a la pestaña **Tiendas** en el menú de navegación inferior.
@@ -51,6 +55,10 @@ Antes de agregar productos, necesitas definir **dónde** los vas a guardar. AlTo
 ## 3. Clasificación: Categorías y Subcategorías
 
 Un inventario ordenado es la clave del éxito. En AlToke Pro agrupas tus productos usando un sistema de dos niveles: **Categoría Principal > Subcategoría**.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/betorockers/AlTokePro/main/manual_categories.png" alt="Crear Categorías" width="300" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);" />
+</div>
 
 ### Crear una Categoría Principal
 1. Ve a la pestaña **Categorías** (ícono de carpeta).
@@ -88,7 +96,7 @@ Aquí es donde defines la "ficha técnica" de lo que vendes. Todavía no les asi
 ¡Esta es la función estrella de AlToke Pro! Convierte tu teléfono en una terminal logística.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/betorockers/AlTokePro/main/screenshot_mobile.png" alt="Escáner y App Móvil" width="300" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);" />
+  <img src="https://raw.githubusercontent.com/betorockers/AlTokePro/main/manual_inventory.png" alt="Escáner e Inventario" width="300" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);" />
 </div>
 
 ### ¿Cómo auditar o sumar/restar stock?
