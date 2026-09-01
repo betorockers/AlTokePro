@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/betorockers/AlTokePro/main/iconoApps.png" alt="AlToke Pro Logo" width="150" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,229,176,0.3); margin-bottom: 20px;" />
   <h1>🚀 AlToke Pro v2.9.1</h1>
   <p><strong>Tu inventario al tiro, sin atados.</strong></p>
-  <p>El sistema profesional de control de inventario de última generación diseñado para Pymes, almacenes, bodegas y centros de distribución.</p>
+  <p>El avanzado sistema <strong>WMS (Warehouse Management System)</strong> de control de inventario y <strong>auditorías físicas</strong> de última generación diseñado para Pymes, almacenes, bodegas y centros de distribución.</p>
 
   <a href="https://github.com/betorockers/AlTokePro/raw/main/AlTokePro.apk" target="_blank">
     <img src="https://img.shields.io/badge/Descargar-APK_Gratis-2ea44f?style=for-the-badge&logo=android" alt="Descargar APK" />
@@ -20,13 +20,13 @@
 
 ## 🌟 ¿Qué es AlToke Pro?
 
-**AlToke Pro** es una solución móvil y web de alto rendimiento que transforma cualquier teléfono inteligente en un **escáner de códigos de barra profesional**. 
+**AlToke Pro** es una solución WMS móvil y web de alto rendimiento orientada a las auditorías, que transforma cualquier teléfono inteligente en un **escáner de códigos de barra profesional**. 
 
 A diferencia de las soluciones tradicionales y costosas, AlToke Pro te permite centralizar la gestión de múltiples sucursales en tiempo real de manera rápida, segura y **completamente sin complicaciones.**
 
 > [!NOTE]
 > **No somos un Punto de Venta (POS)**<br>
-> AlToke Pro es un sistema de **Auditoría Física y Logística (Back-office)**. Mientras tu POS descuenta ventas 1 a 1 en la caja, AlToke Pro es la herramienta que usa tu equipo en la bodega para recibir camiones, despachar mercancía a sucursales, o realizar conteos físicos para detectar robos y mermas cruzando los datos reales con tu sistema de ventas.
+> AlToke Pro es un sistema **WMS (Warehouse Management System)** especializado en **Auditoría Física y Logística (Back-office)**. Mientras tu POS descuenta ventas 1 a 1 en la caja, AlToke Pro es la herramienta que usa tu equipo en la bodega para auditar el stock real, recibir camiones, despachar mercancía a sucursales, o realizar conteos físicos para detectar robos y mermas cruzando los datos con tu sistema de ventas.
 
 ## 🔥 Características Estrella (Lo que nos hace únicos)
 

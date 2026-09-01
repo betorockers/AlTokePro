@@ -2,7 +2,7 @@
 
 ¡Bienvenido a **AlToke Pro**! Este manual está diseñado para guiarte paso a paso en el uso de la plataforma, desde la configuración inicial hasta el dominio del escáner de inventario. 
 
-AlToke Pro es un sistema profesional de control de inventario y logística (Back-office) diseñado para que tu equipo trabaje rápido, sin errores y sin importar si hay conexión a internet.
+AlToke Pro es un avanzado sistema **WMS (Warehouse Management System)** para el control de inventario y auditorías logísticas (Back-office), diseñado para que tu equipo trabaje rápido, sin errores y sin importar si hay conexión a internet.
 
 ---
 
