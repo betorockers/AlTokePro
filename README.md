@@ -105,8 +105,8 @@ Perfecta para iPhone, tablets y computadoras de escritorio.
 ## 📸 Vistazo a la Interfaz
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/betorockers/AlTokePro/main/screenshot_desktop.png" alt="Dashboard Escritorio" width="100%" style="border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(108,99,255,0.2);" />
-  <img src="https://raw.githubusercontent.com/betorockers/AlTokePro/main/screenshot_mobile.png" alt="App Móvil" width="300" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0,229,176,0.2);" />
+  <img src="https://raw.githubusercontent.com/betorockers/AlTokePro/main/manual_dashboard.png" alt="Dashboard Escritorio" width="100%" style="border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(108,99,255,0.2);" />
+  <img src="https://raw.githubusercontent.com/betorockers/AlTokePro/main/manual_inventory.png" alt="App Móvil" width="300" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0,229,176,0.2);" />
 </div>
 
 <hr />
