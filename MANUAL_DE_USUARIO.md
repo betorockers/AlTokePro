@@ -1,4 +1,4 @@
-# 📖 Manual de Usuario - AlToke Pro
+# 📖 Manual de Usuario - AlToke Pro v2.9.1
 
 ¡Bienvenido a **AlToke Pro**! Este manual está diseñado para guiarte paso a paso en el uso de la plataforma, desde la configuración inicial hasta el dominio del escáner de inventario. 
 
