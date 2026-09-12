@@ -34,6 +34,9 @@
 
 Hemos construido AlToke Pro pensando en la operatividad real del día a día, eliminando las fricciones tecnológicas y maximizando la rentabilidad:
 
+- **🌍 Soporte Multimoneda Inteligente:** Operación global o local. Configura tu cuenta para reflejar costos y precios en CLP, USD, EUR, o cualquier divisa que requieras de forma nativa en todos los reportes.
+- **🏷️ Códigos QR por Ubicación (Estanterías y Pasillos):** Generación automática de códigos QR para pasillos o estanterías. Tus auditores o pickers solo escanean el estante para ver al instante los productos asociados, facilitando un proceso de reposición de stock perfecto.
+- **📋 Auditorías y Mermas Avanzadas:** Cruce instantáneo entre stock teórico y conteo físico. Gestiona productos mal ubicados e identifica inmediatamente cantidades a reponer o diferencias causadas por robos/daños en un solo paso.
 - **📶 Operatividad Offline "Blindada":** ¿Te quedaste sin Wi-Fi en el fondo del almacén? Sigue trabajando. AlToke Pro guarda tus auditorías de forma segura y se sincroniza matemáticamente cuando recuperas la señal. Cero pérdida de datos.
 - **📷 Escaneo Ultrarrápido:** Transforma la cámara de tu móvil en un lector láser, o conecta pistolas de código de barras Bluetooth. Escanea cientos de productos por minuto sin latencia en nuestra nueva PWA.
 - **🚀 Tecnología Deep-Link QR:** Imprime nuestras etiquetas inteligentes. Un operario solo debe escanear el QR del pasillo y su celular abrirá la aplicación web *directamente* en la pantalla de ajuste de ese producto. Productividad extrema en un clic.
